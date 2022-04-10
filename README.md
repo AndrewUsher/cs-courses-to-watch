@@ -9,16 +9,20 @@ Courses I want to watch (pulled from https://github.com/prakhar1989/awesome-cour
 Table of Contents
 -----------------
 
-- [Algorithms](#algorithms)
-- [Artificial Intelligence](#artificial-intelligence)
-- [Computer Graphics](#computer-graphics)
-- [CS Theory](#cs-theory)
-- [Introduction to CS](#introduction-to-cs)
-- [Machine Learning](#machine-learning)
-- [Misc](#misc)
-- [Programming Languages / Compilers](#programming-languages--compilers)
-- [Security](#security)
-- [Systems](#systems)
+- [CS Courses To Watch](#cs-courses-to-watch)
+	- [Introduction](#introduction)
+	- [Table of Contents](#table-of-contents)
+	- [Courses](#courses)
+		- [Systems](#systems)
+		- [Programming Languages / Compilers](#programming-languages--compilers)
+		- [Algorithms](#algorithms)
+		- [CS Theory](#cs-theory)
+		- [Introduction to CS](#introduction-to-cs)
+		- [Machine Learning](#machine-learning)
+		- [Security](#security)
+		- [Artificial Intelligence](#artificial-intelligence)
+		- [Computer Graphics](#computer-graphics)
+		- [Misc](#misc)
 
 
 Courses
@@ -26,28 +30,6 @@ Courses
 
 ### Systems
 
-- [CS 61C](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/) **Great Ideas in Computer Architecture (Machine Structures)** *UC Berkeley*
-	- The subjects covered in this course include: C and assembly language programming, translation of high-level programs into machine language, computer organization, caches, performance measurement, parallelism, CPU design, warehouse-scale computing, and related topics.
-	- [Lecture Videos](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_?sort=titleSorter)
- 	- [Lecture Notes](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/#Calendar)
-	- [Resources](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/#Resources)
-	- [Old Exams](https://hkn.eecs.berkeley.edu/exams/course/CS/61C)
-
-- [CS 107](https://courseware.stanford.edu/pg/courses/lectures/371747) **Computer Organization & Systems** *Stanford University*
-	- CS107 is the third course in Stanford's introductory programming sequence. The course will work from the C programming language down to the microprocessor to de-mystify the machine. With a complete understanding of how computer systems execute programs and manipulate data, you will become a more effective programmer, especially in dealing with issues of debugging, performance, portability, and robustness.
-	- [Lecture Videos](https://www.youtube.com/playlist?list=PL08D9FA018A965057&spfreload=10)
-	- [Assignments](http://web.stanford.edu/class/cs107/assignments.html)
-
-- [CS 140](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lectures.php) **Operating Systems** *Stanford University*
-	- This class introduces the basic facilities provided in modern operating systems. The course divides into three major sections. The first part of the course discusses concurrency. The second part of the course addresses the problem of memory management. The third major part of the course concerns file systems.
-	- [Lecture Notes](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lectures.php)
-	- [Assignments](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/projects.php)
-
-- [CS 162](http://cs162.eecs.berkeley.edu/) **Operating Systems and Systems Programming** *UC Berkeley*
-	- The purpose of this course is to teach the design of operating systems and operating systems concepts that appear in other advanced systems. Topics we will cover include concepts of operating systems, systems programming, networked and distributed systems, and storage systems, including multiple-program systems (processes, interprocess communication, and synchronization), memory allocation (segmentation, paging), resource allocation and scheduling, file systems, basic networking (sockets, layering, APIs, reliability), transactions, security, and privacy.
-    	- Operating Systems course by the Chair of EECS, UC Berkeley [David Culler](http://www.cs.berkeley.edu/~culler/)
-    	- [Lecture Videos](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c) Spring 2015 lectures
-    	- [Lecture Notes](https://inst.eecs.berkeley.edu/~cs162/sp15/) Spring 2015 lectures
 - [CS 168](https://inst.eecs.berkeley.edu/~cs168/fa14/) **Introduction to the Internet: Architecture and Protocols** *UC Berkeley*
     - This course is an introduction to the Internet architecture. We will focus on the concepts and fundamental design principles that have contributed to the Internet's scalability and robustness and survey the various protocols and algorithms used within this architecture. Topics include layering, addressing, intradomain routing, interdomain routing, reliable delivery, congestion control, and the core protocols (e.g., TCP, UDP, IP, DNS, and HTTP) and network technologies (e.g., Ethernet, wireless).
     - [Lecture Notes & Assignments](https://inst.eecs.berkeley.edu/~cs168/fa14/class.html)
@@ -784,17 +766,3 @@ and anti-analysis techniques.
 
 - [CS 6650](http://www.cs.cornell.edu/courses/CS6650/2013fa/) **Computational Motion** *Cornell University*
 	- Covers computational aspects of motion, broadly construed. Topics include the computer representation, modeling, analysis, and simulation of motion, and its relationship to various areas, including computational geometry, mesh generation, physical simulation, computer animation, robotics, biology, computer vision, acoustics, and spatio-temporal databases. Students implement several of the algorithms covered in the course and complete a final project.  This offering will also explore the special role of motion processing in physically based sound rendering.
-- [CS 6840](http://www.cs.cornell.edu/courses/CS6840/2014sp/) **Algorithmic Game Theory** *Cornell University*
-	- Algorithmic Game Theory combines algorithmic thinking with game-theoretic, or, more generally, economic concepts. The course will study a range of topics at this interface
-	- [Syllabus](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
-	- [Lectures](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
-	- [Assignments](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
-	- [Readings](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
-
-
-
-- [SCICOMP](http://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=233) **An Introduction to Efficient Scientific Computation** *Universität Bremen*
-	- This is a graduate course in scientific computing created and taught by [Oliver Serang](http://colorfulengineering.org/) in 2014, which covers topics in computer science and statistics with applications from biology. The course is designed top-down, starting with a problem and then deriving a variety of solutions from scratch.
-	- Topics include memoization, recurrence closed forms, string matching (sorting, hash tables, radix tries, and suffix tries), dynamic programming (e.g. Smith-Waterman and Needleman-Wunsch), Bayesian statistics (e.g. the envelope paradox), graphical models (HMMs, Viterbi, junction tree, belief propagation), FFT, and the probabilistic convolution tree.
-	- [Lecture videos on Youtube](https://www.youtube.com/user/fillwithlight/videos) and for direct [download](http://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=233)
-
