@@ -21,7 +21,7 @@ Table of Contents
 		- [Machine Learning](#machine-learning)
 		- [Security](#security)
 		- [Artificial Intelligence](#artificial-intelligence)
-		- [Computer Graphics](#computer-graphics)
+		- [Computer Vision](#computer-vision)
 		- [Misc](#misc)
 
 
@@ -630,43 +630,13 @@ and anti-analysis techniques.
 	- [Readings](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
 
 -------
-### Computer Graphics
-- [CAP 5415](http://crcv.ucf.edu/courses/CAP5415/) **Computer Vision** *University of Central Florida*
-	- An introductory level course covering the basic topics of computer vision, and introducing some fundamental approaches for computer vision research.
-	- [Lectures and Videos](http://crcv.ucf.edu/videos/Lecture_Videos/)
-	- [Assignments](http://crcv.ucf.edu/courses/CAP5415/Fall2014/index.php)
-- [CIS 581](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=CIS_581:_Computer_Vision_%26_Computational_Photography) **Computer Vision and Computational Photography** *University of Pennsylvania*
-	- An introductory course in computer vision and computational photography focusing on four topics: image features, image morphing, shape matching, and image search.
-	- [Lectures](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Schedule)
-	- [Assignments](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Projects)
-- [CMU 462](http://15462.courses.cs.cmu.edu/fall2015) **Computer Graphics** *Carnegie Mellon University*
-    - This course provides a comprehensive introduction to computer graphics. Focuses on fundamental concepts and techniques, and their cross-cutting relationship to multiple problem domains in graphics (rendering, animation, geometry, imaging). Topics include: sampling, aliasing, interpolation, rasterization, geometric transformations, parameterization, visibility, compositing, filtering, convolution, curves & surfaces, geometric data structures, subdivision, meshing, spatial hierarchies, ray tracing, radiometry, reflectance, light fields, geometric optics, Monte Carlo rendering, importance sampling, camera models, high-performance ray tracing, differential equations, time integration, numerical differentiation, physically-based animation, optimization, numerical linear algebra, inverse kinematics, Fourier methods, data fitting, example-based synthesis.
-    - [Lectures and Readings](http://15462.courses.cs.cmu.edu/fall2015/reading)
-    - [Assignments and Quizes](http://15462.courses.cs.cmu.edu/fall2015/exercises)
-
-- [CS 4620](http://www.cs.cornell.edu/Courses/CS4620/2014fa/index.shtml#) **Introduction to Computer Graphics** *Cornell University*
-	- The study of creating, manipulating, and using visual images in the computer.
-	- [Assignments](http://www.cs.cornell.edu/Courses/CS4620/2014fa/index.shtml#asgn)
-	- [Exams](http://www.cs.cornell.edu/Courses/CS4620/2014fa/index.shtml#exams)
-- [CS 4670](http://www.cs.cornell.edu/courses/CS4670/2015sp/) **Introduction to Computer Vision** *Cornell University*
-	- This course will provide an introduction to computer vision, with topics including image formation, feature detection, motion estimation, image mosaics, 3D shape reconstruction, and object and face detection and recognition. Applications of these techniques include building 3D maps, creating virtual characters, organizing photo and video databases, human computer interaction, video surveillance, automatic vehicle navigation, and mobile computer vision. This is a project-based course, in which you will implement several computer vision algorithms throughout the semester.
-	- [Assignments](http://www.cs.cornell.edu/courses/CS4670/2015sp/projects/projects.html)
-	- [Lectures](http://www.cs.cornell.edu/courses/CS4670/2015sp/lectures/lectures.html)
+### Computer Vision
 
 - [CS 6670](https://canvas.instructure.com/courses/904706) **Computer Vision** *Cornell University*
 	- Introduction to computer vision. Topics include edge detection, image segmentation, stereopsis, motion and optical flow, image mosaics, 3D shape reconstruction, and object recognition. Students are required to implement several of the algorithms covered in the course and complete a final project.
 	- [Syllabus](https://canvas.instructure.com/courses/904706/assignments/syllabus)
 	- [Lectures](https://canvas.instructure.com/courses/904706)
 	- [Assignments](https://canvas.instructure.com/courses/904706/assignments)
-
-- [CSCI 1230](http://cs.brown.edu/courses/csci1230/index.html) **Introduction to Computer Graphics** *Brown University*
-	- This course offers an in-depth exploration of fundamental concepts in 2D and 3D computer graphics. It introduces 2D raster graphics techniques, including scan conversion, simple image processing, interaction techniques and user interface design. The bulk of the course is devoted to 3D modeling, geometric transformations, and 3D viewing and rendering.
-	- [Lectures](http://cs.brown.edu/courses/csci1230/lectures.html)
-	- [Labs](http://cs.brown.edu/courses/csci1230/labs.html)
-	- [Demos](http://cs.brown.edu/courses/csci1230/demos.html)
-- [CSCI-GA.2270-001](https://mrl.nyu.edu/~perlin/courses/fall2015/) **Graduate Computer Graphics** *New York University*
-	- Step-by-step study computer graphics, with reading and homework at each lecture (Fall2015)
-	- [Lectures](https://mrl.nyu.edu/~perlin/courses/fall2015/)
 
 -------
 ### Misc
