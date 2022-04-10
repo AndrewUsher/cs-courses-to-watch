@@ -20,7 +20,6 @@ Table of Contents
 		- [Introduction to CS](#introduction-to-cs)
 		- [Machine Learning](#machine-learning)
 		- [Security](#security)
-		- [Artificial Intelligence](#artificial-intelligence)
 		- [Computer Vision](#computer-vision)
 		- [Misc](#misc)
 
@@ -610,24 +609,6 @@ and anti-analysis techniques.
 	- [Quizzes](http://css.csail.mit.edu/6.858/2014/quiz.html)
 	- [Readings](http://css.csail.mit.edu/6.858/2014/reference.html)
 	- [Final Projects](http://css.csail.mit.edu/6.858/2014/projects.html)
-
--------
-### Artificial Intelligence
-
-- [CS 188](http://ai.berkeley.edu/home.html) **Introduction to Artificial Intelligence** *UC Berkeley*   <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20    " height="20" alt="Lecture Notes" title="Lecture Notes" />
-    - This course will introduce the basic ideas and techniques underlying the design of intelligent computer systems. A specific emphasis will be on the statistical and decision-theoretic modeling paradigm. By the end of this course, you will have built autonomous agents that efficiently make decisions in fully informed, partially observable and adversarial settings. Your agents will draw inferences in uncertain environments and optimize actions for arbitrary reward structures. Your machine learning algorithms will classify handwritten digits and photographs. The techniques you learn in this course apply to a wide variety of artificial intelligence problems and will serve as the foundation for further study in any application area you choose to pursue.
-    - [Lectures](http://ai.berkeley.edu/lecture_videos.html)
-    - [Projects](http://ai.berkeley.edu/project_overview.html)
-    - [Exams](http://ai.berkeley.edu/exams.html)
-- [CS 4700](http://www.cs.cornell.edu/courses/CS4700/2014fa/) **Foundations of Artificial Intelligence** *Cornell University*
-	- This course will provide an introduction to computer vision, with topics including image formation, feature detection, motion estimation, image mosaics, 3D shape reconstruction, and object and face detection and recognition. Applications of these techniques include building 3D maps, creating virtual characters, organizing photo and video databases, human computer interaction, video surveillance, automatic vehicle navigation, and mobile computer vision. This is a project-based course, in which you will implement several computer vision algorithms throughout the semester.
-	- [Assignments](http://www.cs.cornell.edu/courses/CS4700/2014fa/)
-	- [Lectures](http://www.cs.cornell.edu/courses/CS4700/2014fa/)
-- [CS 6700](http://www.cs.cornell.edu/courses/CS6700/2013sp/) **Advanced Artificial Intelligence** *Cornell University*
-	- The design of systems that are among top 10 performers in the world (human, computer, or hybrid human-computer).
-	- [Syllabus](http://www.cs.cornell.edu/courses/CS6700/2013sp/lectures/CS6700-Overview_v2.pptx)
-	- [Lectures](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
-	- [Readings](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
 
 -------
 ### Computer Vision
